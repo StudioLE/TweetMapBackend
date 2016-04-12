@@ -1,0 +1,7 @@
+!.gitkeep
+
+/bower_components
+/node_modules
+/config/local*
+
+npm-debug.log
