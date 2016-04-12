@@ -8,6 +8,8 @@
   "dependencies": {
     "async": "^1.5.2",
     "config": "^1.20.1",
+    "express": "^4.13.4",
+    "open": "0.0.5",
     "twitter": "^1.2.5"
   }
 }
