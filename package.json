@@ -6,6 +6,7 @@
   "license": "",
   "private": true,
   "dependencies": {
+    "apicache": "0.0.12",
     "async": "^1.5.2",
     "config": "^1.20.1",
     "express": "^4.13.4",
