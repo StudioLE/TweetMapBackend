@@ -1,8 +1,8 @@
 {
-  "name": "culturalcontext",
-  "description": "Cultural context",
+  "name": "tweetmap",
+  "description": "TweetMap - Mapping Culture",
   "version": "0.0.1-1",
-  "repository": "https://github.com/StudioLE/CulturalContext",
+  "repository": "https://github.com/StudioLE/TweetMapBackend",
   "license": "",
   "private": true,
   "dependencies": {
