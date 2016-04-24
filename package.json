@@ -6,8 +6,8 @@
   "license": "",
   "private": true,
   "dependencies": {
-    "apicache": "0.0.12",
-    "async": "^1.5.2",
+    "apicache": "0.0.14",
+    "async": "^2.0.0-rc.3",
     "config": "^1.20.1",
     "express": "^4.13.4",
     "lodash": "^4.11.1",
