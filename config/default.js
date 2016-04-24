@@ -14,10 +14,10 @@ module.exports = {
   server: {
 
     // Server host
-    hostname: 'localhost',
+    hostname: '0.0.0.0',
 
     // Server port
-    port: 4730
+    port: 80
   },
 
   //////////////////////////////////////////////////
