@@ -1,7 +1,7 @@
 {
   "name": "tweetmap",
   "description": "TweetMap - Mapping Culture",
-  "version": "0.0.1-1",
+  "version": "0.0.1-2",
   "repository": "https://github.com/StudioLE/TweetMapBackend",
   "license": "",
   "private": true,
